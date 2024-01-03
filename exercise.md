@@ -52,5 +52,12 @@ The secondary diagonal is: <br/>
 
 Sum across the secondary diagonal : 4 + 5 + 10 = 19<br/>
 Difference: |4 - 19| = 15<br/>
-Note: |x| is the absolute value of x
+Note: |x| is the absolute value of x<br/>
+
+**To-do:**<br/>
+
+ Complete the 'diagonalDifference' function below.<br/>
+ 
+ * The function is expected to return an INTEGER.<br/>
+ * The function accepts 2D_INTEGER_ARRAY arr as parameter.<br/>
 
