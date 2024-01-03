@@ -1,4 +1,4 @@
-**HackerRank named Diagonal_difference**<br/>
+**HackerRank named Diagonal_difference**<br/><br/>
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.<br/>
 
 For example, the square matrix arr is shown below:<br/>
