@@ -56,7 +56,7 @@ Note: |x| is the absolute value of x<br/>
 
 **To-do:**<br/>
 
- Complete the 'diagonalDifference' function below.<br/>
+ Complete the 'diagonalDifference' function.<br/>
  
  * The function is expected to return an INTEGER.<br/>
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.<br/>
