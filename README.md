@@ -13,7 +13,7 @@
   - [🌷 Author ](#-author-)
   - [🔭🌷 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Acknowledgments]
+  - [⭐️ Acknowledgments](#-acknowledgments-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
@@ -80,7 +80,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- ACKNOWLEDGEMENTS --> 
 
-If you find this project helpful, consider giving a star ⭐️ to show your support.
+If you find this project helpful, consider giving a star ⭐️ to show your support.<br/>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
