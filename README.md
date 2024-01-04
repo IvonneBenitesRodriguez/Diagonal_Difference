@@ -13,6 +13,7 @@
   - [🌷 Author ](#-author-)
   - [🔭🌷 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Acknowledgments]
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
@@ -80,6 +81,12 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS --> 
 
 If you find this project helpful, consider giving a star ⭐️ to show your support.
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my friend and coding partner Maximo Ortelli for his great initiative in building together Hackerrank Challenges.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
