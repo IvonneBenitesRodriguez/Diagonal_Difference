@@ -26,7 +26,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Ruby🌷</summary>
+<summary>Python🌷</summary>
   <ul>
     <li><a href="https://www.python.org/">Python🌷</a></li>
   </ul>
